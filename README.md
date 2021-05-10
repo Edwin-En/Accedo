@@ -7,7 +7,7 @@ Las 3 primeras carpetas son los ejercicios propuestos como tal, dentro de ellas 
 
 Es importante aclarar que para los 2 primeros ejercicios solo se requiere Python.
 
-Para el tercer ejercicio se hace uso de la herramienta XAMP para el desarrollo de la pagina web con uso de los lenguajes PHP, CSS y HTML.
+Para el tercer ejercicio se hace uso de la herramienta XAMP para el uso de la base de datos en MySQL,  para el desarrollo de la pagina web se hace uso de los lenguajes PHP, CSS y HTML.
 
 Tambien esta la carpeta "Evidencia de funcionamiento" donde se encuentran las capturas de pantalla del correcto funcionamiento de los ejercicios propuestos.
 
