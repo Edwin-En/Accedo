@@ -1,4 +1,4 @@
-# Accedo
+# Accedo-Tech
 En este repositorio se encuentra la informacion referente a mi prueba de conocimiento para la empresa Accedo.
 
 Se encuentran 5 carpetas principales:
